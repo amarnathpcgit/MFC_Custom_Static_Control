@@ -8,4 +8,4 @@ An MFC Custom static control derived from CStatic
 ▪ EnableGradientBackground(bool bEnable): for Enabling image background mode
 ▪ SetBkColor(): For setting background colour(Primary)
 ▪ SetBkColor2(): For setting background colour(Gradient)
-▪ SetBgImage(LPCTSTR imgFilePath) : for
+▪ SetBgImage(LPCTSTR imgFilePath) : for loading the Background image
